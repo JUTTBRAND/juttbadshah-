@@ -170,7 +170,7 @@ def log_sel():
 
             'start',
 
-            ''https://chat.whatsapp.com/JHpY2f6C2fKEAcv0SOZ2rg)
+
 
         main()
 
